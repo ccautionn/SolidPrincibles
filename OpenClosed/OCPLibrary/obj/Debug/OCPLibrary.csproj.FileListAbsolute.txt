@@ -1,0 +1,6 @@
+C:\Users\aalmis\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.csproj.AssemblyReference.cache
+C:\Users\aalmis\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aalmis\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.dll
+C:\Users\aalmis\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\OCPLibrary\bin\Debug\OCPLibrary.pdb
+C:\Users\aalmis\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.dll
+C:\Users\aalmis\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\OCPLibrary\obj\Debug\OCPLibrary.pdb
